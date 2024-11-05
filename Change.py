@@ -12,7 +12,7 @@ import re
 app = Flask(__name__)
 
 # OpenAI API setup
-openai_api_key = "sk-proj-KHZRF8EknvLfcVgghbPST3BlbkFJeBxSjKzX21F7WL9Holh3"
+openai_api_key = "Your Open Api Key"
 openai.api_key = openai_api_key
 
 # MongoDB Atlas setup
